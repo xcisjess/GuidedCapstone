@@ -1,2 +1,3 @@
 # GuidedCapstone
-##Data Science Bootcamp
+## Data Science Bootcamp
+Unit 6 Big Mountain Resort Case Study
